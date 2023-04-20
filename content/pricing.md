@@ -11,7 +11,7 @@ plans:
     - All features
     - +5 extra credits
   button:
-    label: Get started for free
+    label: Checkout
     link: "/contact"
 
 - title: GoChat100
@@ -23,7 +23,7 @@ plans:
     - All features
     - +50 extra credits
   button:
-    label: Get started
+    label: Checkout
     link: "/contact"
 
 - title: GoChat250
@@ -34,7 +34,7 @@ plans:
     - All features
     - +250 extra credits
   button:
-    label: Get started
+    label: Checkout
     link: "/contact"
 
 call_to_action:

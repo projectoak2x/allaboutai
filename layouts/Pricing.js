@@ -38,8 +38,9 @@ function Pricing({ data }) {
                     className={`btn mt-5 ${
                       plan.recommended ? "btn-primary" : "btn-outline-primary"
                     }`}
-                    href={plan.button.link}
+                    href={"/checkout"}
                     rel={plan.button.rel}
+                    onClick={() => localStorage.setItem('productList',JSON.stringify([{price:plan.price, description: plan.subtitle, name: plan.title}]))}
                   >
                     {plan.button.label}
                   </Link>

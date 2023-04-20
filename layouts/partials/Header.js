@@ -4,6 +4,7 @@ import menu from "@config/menu.json";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import React, { useState } from "react";
+import Image from "next/image";
 
 const textStyle = {
   color: "#20ad8c",
@@ -107,6 +108,13 @@ const Header = () => {
             {enable && (
               <li className="md:hidden">
                 <Link
+                  className="z-0 py-[14px] mr-5"
+                  href={"/checkout"}
+                  rel=""
+                >
+                  <Image src="/images/checkout.png" width={30} height={30} />
+                </Link>
+                <Link
                   className="btn btn-primary z-0 py-[14px]"
                   href={link}
                   rel=""
@@ -119,6 +127,9 @@ const Header = () => {
         </div>
         {enable && (
           <div className="d-flex order-1 ml-auto hidden min-w-[200px] items-center justify-end md:ml-0 md:flex md:order-2">
+            <Link className="z-0 py-[14px] mr-5" href={"/checkout"} rel="">
+            <Image src="/images/checkout.png" width={30} height={30} />
+            </Link>
             <Link className="btn btn-primary z-0 py-[14px]" href={link} rel="">
               {label}
             </Link>
