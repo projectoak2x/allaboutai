@@ -52,6 +52,7 @@ const App = ({ Component, pageProps }) => {
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
+        <meta name="facebook-domain-verification" content="tc4jex6b7x9xag2sduih18r7ivn05h" />
       </Head>
       <Component {...pageProps} />
     </>
