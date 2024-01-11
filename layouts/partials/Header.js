@@ -34,7 +34,7 @@ const Header = () => {
         {/* logo */}
         <div className="order-0 items-center flex">
           <Logo src={logo} />
-          <div style={textStyle}>{`CONSTAFOCUS DEVELOPMENT CORPORATION`}</div>
+          <div style={textStyle}>{`All about AI`}</div>
         </div>
 
         {/* navbar toggler */}

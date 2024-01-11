@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "CONSTAFOCUS DEVELOPMENT CORPORATION",
+    "title": "All about AI",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "48",
     "logo_height": "48",
-    "logo_text": "CONSTAFOCUS DEVELOPMENT CORPORATION"
+    "logo_text": "All about AI"
   },
 
   "settings": {
@@ -31,7 +31,7 @@
     "contact_form_action": "",
     "tag_manager_id": "",
     "footer_content": "A messenger bot for messenger and facebook news for AI latest updates",
-    "copyright": "Copyright © 2023 CONSTAFOCUS DEVELOPMENT CORPORATION"
+    "copyright": "Copyright © 2023 All about AI"
   },
 
   "metadata": {

@@ -1,6 +1,6 @@
 ---
 banner:
-  title: CONSTAFOCUS DEVELOPMENT CORPORATION, just one chat away
+  title: All about AI, just one chat away
   content: Discover the World of Artificial Intelligence with Ease - Get Answers and Expert Insights through Chat on our All About AI messenger Bot.
   image: /images/banner-art.svg
   button:
