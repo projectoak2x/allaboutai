@@ -1,7 +1,7 @@
 ---
 banner:
-  title: All about AI, just one chat away
-  content: Discover the World of Artificial Intelligence with Ease - Get Answers and Expert Insights through Chat on our All About AI messenger Bot.
+  title: ALLABOUTAI INFORMATION TECHNOLOGY SOLUTIONS, just one chat away
+  content: Discover the World of Artificial Intelligence with Ease - Get Answers and Expert Insights through Chat on our ALLABOUTAI INFORMATION TECHNOLOGY SOLUTIONS messenger Bot.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
@@ -83,7 +83,7 @@ workflow:
 # call_to_action
 call_to_action:
   title: Ready to get started?
-  content: Go to our facebook page [All about ai](https://www.facebook.com/allaboutaibot)
+  content: Go to our facebook page [ALLABOUTAI INFORMATION TECHNOLOGY SOLUTIONS](https://www.facebook.com/allaboutaibot)
   image: '/images/cta.svg'
   button:
     enable: true
