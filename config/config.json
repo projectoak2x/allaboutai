@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "ALLABOUTAI INFORMATION TECHNOLOGY SOLUTIONS",
+    "title": "CONSTAFOCUS DEVELOPMENT CORPORATION",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "48",
     "logo_height": "48",
-    "logo_text": "ALLABOUTAI INFORMATION TECHNOLOGY SOLUTIONS"
+    "logo_text": "CONSTAFOCUS DEVELOPMENT CORPORATION"
   },
 
   "settings": {
@@ -31,7 +31,7 @@
     "contact_form_action": "",
     "tag_manager_id": "",
     "footer_content": "A messenger bot for messenger and facebook news for AI latest updates",
-    "copyright": "Copyright © 2023 ALLABOUTAI INFORMATION TECHNOLOGY SOLUTIONS"
+    "copyright": "Copyright © 2023 CONSTAFOCUS DEVELOPMENT CORPORATION"
   },
 
   "metadata": {
